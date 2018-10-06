@@ -1,0 +1,13 @@
+{
+    "empty": {
+        "form": "Aucune données reçu. Veuillez remplir le formulaire",
+        "email": "Veuillez entrer votre email",
+        "password": "Veuillez entrer un mot de passe",
+        "lastname": "Veuillez entrer votre nom",
+        "firstname": "Veuillez entrer votre prénom",
+        "matricule": "Veuillez entrer votre matricule",
+        "phonenumber": "Veuillez entrer votre numéro de téléphone",
+        "birthdate": "Veuillez entrer votre date de naissance",
+        "services": "Veuillez entrer votre service"
+    }
+}

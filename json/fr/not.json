@@ -1,0 +1,6 @@
+{
+    "not": {
+        "validated": "Votre compte n'a pas encore été validé par les administrateurs, veuillez réessayer plus tard",
+        "admin": "Vous n'êtes pas administrateur"
+    }
+}

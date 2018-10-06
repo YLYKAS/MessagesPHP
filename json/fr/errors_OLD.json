@@ -1,0 +1,43 @@
+{
+    "empty": {
+        "form": "Aucune données reçu. Veuillez remplir le formulaire",
+        "email": "Veuillez entrer votre email",
+        "password": "Veuillez entrer un mot de passe",
+        "lastname": "Veuillez entrer votre nom",
+        "firstname": "Veuillez entrer votre prénom",
+        "matricule": "Veuillez entrer votre matricule",
+        "phonenumber": "Veuillez entrer votre numéro de téléphone",
+        "birthdate": "Veuillez entrer votre date de naissance",
+        "services": "Veuillez entrer votre service"
+    },
+    "invalid": {
+        "email": "L'addresse email que vous avez saisie est refusée : format invalide",
+        "lastname": "Le nom que vous avez saisie est refusé : format invalide",
+        "firstname": "Le prénom que vous avez saisie est refusé : format invalide",
+        "matricule": "Le matricule que vous avez saisie est refusé : format invalide",
+        "phonenumbe": "Le numéro de téléphone que vous avez saisie est refusé : format invalide",
+        "birthdate": "La date de naissance que vous avez saisie est refusé : format invalide",
+        "services": "Le service que vous avez saisie est refusé : choix non-disponible",
+        "captcha": "Le captcha a été refusée"
+    },
+    "wrong": {
+        "email": "L'addresse email que vous avez saisie n'est pas dans notre base de donnée",
+        "password": "Le mot de passe est incorecte"
+    },
+    "already": {
+        "email": "L'adresse email que vous avez saisie est déjà utilisée",
+        "matricule": "Le matricule que vous avez saisie est déjà utilisée"
+    },
+    "not": {
+        "validated": "Votre compte n'a pas encore été validé par les administrateurs, veuillez réessayer plus tard",
+        "admin": "Vous n'êtes pas administrateur"
+    },
+    "unknow": {
+        "flash": "Un problème est survenue "
+    }
+
+}
+
+
+
+

@@ -1,0 +1,12 @@
+{
+    "invalid": {
+        "email": "L'addresse email que vous avez saisie est refusée : format invalide",
+        "lastname": "Le nom que vous avez saisie est refusé : format invalide",
+        "firstname": "Le prénom que vous avez saisie est refusé : format invalide",
+        "matricule": "Le matricule que vous avez saisie est refusé : format invalide",
+        "phonenumbe": "Le numéro de téléphone que vous avez saisie est refusé : format invalide",
+        "birthdate": "La date de naissance que vous avez saisie est refusé : format invalide",
+        "services": "Le service que vous avez saisie est refusé : choix non-disponible",
+        "captcha": "Le captcha a été refusée"
+    }
+}
